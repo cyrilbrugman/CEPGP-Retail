@@ -15,7 +15,7 @@ function CEPGP_initialise()
 		CEPGP_lootChannel = "RAID";
 	end
 	if MOD == nil then
-		MOD = 1;
+		MOD = 1000;
 	end
 	if COEF == nil then
 		COEF = 4.83;
